@@ -1,3 +1,3 @@
 # SimplePortfolioWebsite
 
-[alt text](https://github.com/RazanAlmahdi/SimplePortfolioWebsite/main/interface.png)
+[alt text](https://github.com/RazanAlmahdi/SimplePortfolioWebsite/blob/main/interface.png)
