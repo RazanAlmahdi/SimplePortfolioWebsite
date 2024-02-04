@@ -1,3 +1,3 @@
 # SimplePortfolioWebsite
 
-<img src="ttps://github.com/RazanAlmahdi/SimplePortfolioWebsite/blob/main/interface.png"> 
+<img src="https://github.com/RazanAlmahdi/SimplePortfolioWebsite/blob/main/interface.png"/> 
