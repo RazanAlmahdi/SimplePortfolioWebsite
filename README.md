@@ -17,4 +17,4 @@ git clone https://github.com/RazanAlmahdi/SimplePortfolioWebsite.git
 ```
 
 # Authors
-[Razan Almahdi](github.com/RazanAlmahdi)
+[Razan Almahdi](https://github.com/RazanAlmahdi)
