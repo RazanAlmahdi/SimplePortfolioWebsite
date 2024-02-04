@@ -1,0 +1,59 @@
+header
+{background-color: CadetBlue;
+padding: 2em 0em 4em 2.5em}
+
+h1
+{color: #E7F3EF;
+font-family: Brush Script MT, Brush Script Std, cursive;
+font-size: 4em;}
+
+h2
+{color: DarkSlateGray;
+font-family: Verdana, sans-serif;
+font-size: 1.25em;}
+
+h3
+{color:#E7F3EF;
+font-family: Verdana, sans-serif;
+font-size: 1em;}
+
+p, label
+{color: DarkSlateGray;
+font-family: Verdana, sans-serif;
+font-size: 0.95em;}
+
+ul 
+{list-style-type: none;
+margin: 0;
+padding: 0.5em;
+overflow: hidden;
+background-color: DarkSlateGray;}
+
+li 
+{float: left;}
+
+li a 
+{display: block;
+color: #E7F3EF;
+padding: 1em 1.25em;
+text-decoration: none;
+font-family: Verdana, sans-serif;}
+
+li a:hover 
+{background-color: CadetBlue;}
+
+article
+{margin: 2em 2.5em 0em 2.5em;}
+
+body
+{background-color: LightCyan;}
+
+.button 
+{background-color: DarkSlateGray;
+color: #E9F2EF;
+font-size: 0.85em;
+padding: 0.5em;}
+
+footer {background-color: DarkSlateGray;
+height: 2em;
+padding: 0.25em;}
