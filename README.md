@@ -1,3 +1,3 @@
 # SimplePortfolioWebsite
 
-[alt text](https://github.com/RazanAlmahdi/SimplePortfolioWebsite/blob/main/interface.png)
+<image src="ttps://github.com/RazanAlmahdi/SimplePortfolioWebsite/blob/main/interface.png"> </image>
